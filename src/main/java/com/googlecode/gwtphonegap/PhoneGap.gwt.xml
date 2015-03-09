@@ -334,12 +334,12 @@
 			<when-property-is name="phonegap.env" value="yes" />
 		</all>
 	</replace-with>
-	
-	
+
 	<!-- disable default gwt Log handler -->
-	<set-property name="gwt.logging.consoleHandler" value="DISABLED"/> 
+	<!--
+	<set-property name="gwt.logging.consoleHandler" value="DISABLED"/>
 	<set-property name="gwt.logging.popupHandler" value="DISABLED" />
-	
+	-->
 	
 	
 
